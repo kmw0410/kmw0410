@@ -1,7 +1,5 @@
-```java
-System.out.printf("Hello world!");
+```sql
+CREATE DATABASE profile;
+CREATE TABLE profile(char name, int age, char dev_languages);
+INSERT INTO profile values('kmw', 20, '(current) python, (learning) java, javascript, python');
 ```
- - Age : 2n
- - Gender : Male
- - Identity : College student
- - Language : Python (Learning HTML, C, Java, Python, Database at University)

@@ -4,10 +4,6 @@ I live in South Korea 🇰🇷, and I'm student
 ## Languages
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 
-## 
-## Hooby
-Listening to Music , Gaming(DJMAX RESPECT V)
-
 ## (tiny) Homelab Configuration
 ```
   Switch : TP-LINK 8 Port Ggiabit Desktop Switch (TL-SG108S)
@@ -45,7 +41,7 @@ Listening to Music , Gaming(DJMAX RESPECT V)
     <td>M/B NIC, TP-LINK TX201 2.5G</td>
   <tr>
     <td><strong>OS</strong></td>
-    <td colspan="2" align="center">Proxmox VE 8.2</td>
+    <td colspan="2" align="center">Proxmox VE 8.2.4</td>
   </tr>
 </table>
 
@@ -53,11 +49,11 @@ Listening to Music , Gaming(DJMAX RESPECT V)
 <table>
   <tr>
     <th>Server 1</th>
-    <td>XPEnology(VM), Arch Linux(VM)</td>
+    <td>XPEnology(VM), Ubuntu 24.04(LXC)</td>
   </tr>
   <tr>
     <th>Server 2</th>
-    <td>Arch Linux(VM), Windows 11(VM), Proxmox Backup Server(VM)</td>
+    <td>Windows Server 2022(VM), Proxmox Backup Server(VM)</td>
   </tr>
 </table>
 

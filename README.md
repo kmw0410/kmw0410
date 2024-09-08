@@ -1,5 +1,5 @@
 ## Hello, I'm kmw <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
-I live in South Korea 🇰🇷, and I'm student
+I live in South Korea 🇰🇷
 
 ## Languages
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)

@@ -42,6 +42,9 @@ I live in South Korea 🇰🇷
   <tr>
     <td><strong>OS</strong></td>
     <td colspan="2" align="center">Proxmox VE 8.2.7</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>+ PiKVM x86</td>
   </tr>

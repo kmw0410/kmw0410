@@ -4,7 +4,7 @@ I live in South Korea 🇰🇷
 ## Languages
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 
-## (tiny) Homelab Configuration
+## (very tiny) Homelab Configuration
 ```
   Switch : TP-LINK 8 Port Ggiabit Desktop Switch (TL-SG108S)
 ```
@@ -12,7 +12,7 @@ I live in South Korea 🇰🇷
 <table>
   <tr>
     <th></th>
-    <th>Server 1 [R5 5600G]</th>
+    <th>Server 1</th>
     <th>Server 2 (Firebat AK2 Plus)</th>
   </tr>
   <tr>
@@ -27,8 +27,8 @@ I live in South Korea 🇰🇷
   </tr>
   <tr>
     <td><strong>STORAGE</strong></td>
-    <td>4 SSD(NVMe + NGFF + 2.5" SATA) + 2 HDD(NAS, PBS)</td>
-    <td>NVMe 128GB + 2.5" SATA 128GB</td>
+    <td>Crucial P3 NVMe 500GB + HDD 500GB & 2TB</td>
+    <td>PM991 NVMe 128GB</td>
   </tr>
   <tr>
     <td><strong>GPU</strong></td>
@@ -37,11 +37,13 @@ I live in South Korea 🇰🇷
   </tr>
   <tr>
     <td><strong>NIC</strong></td>
-    <td>5 NIC</td>
+    <td>5 NICs</td>
     <td>1 NIC</td>
   <tr>
     <td><strong>OS</strong></td>
     <td colspan="2" align="center">Proxmox VE 8.2.7</td>
+    <td>&nbsp;</td>
+    <td>+ PiKVM x86</td>
   </tr>
 </table>
 

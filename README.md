@@ -1,8 +1,7 @@
 ## Hello
-Open-source contributor and project translator. I also run a tiny homelab.
+I'm an open-source translator & contributor, a mirror operator, and a homelabber.
 
-## Stats
-[![GITHUB STATS](https://github-readme-stats.vercel.app/api?username=kmw0410)](https://github.com/anuraghazra/github-readme-stats)
+Also a member of [ROKFOSS](https://krfoss.org).
 
 ## More Information
 - [Fakecrime](https://fakecrime.bio/kmw)

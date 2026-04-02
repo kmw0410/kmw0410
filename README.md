@@ -5,3 +5,5 @@ Also a member of [ROKFOSS](https://krfoss.org).
 
 ## More Information
 - [Fakecrime](https://fakecrime.bio/kmw)
+- [Oerated mirrors](https://mirror.distly.kr)
+- [Maintained mirros](https://mirror.wane.kr)
